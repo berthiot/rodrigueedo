@@ -20,7 +20,7 @@ For professional inquiries, project collaborations, or job opportunities, email 
 **GitHub:** [github.com/{{ site.github_username }}](https://github.com/{{ site.github_username }})
 Browse my code repositories, contributions, and open-source projects.
 
-**LinkedIn:** [Connect with me professionally](#)
+**LinkedIn:** [Connect with me professionally](www.linkedin.com/in/rodrigue-edo-858a0267)
 Let's connect on LinkedIn for professional networking and career opportunities.
 
 **Twitter:** [Follow me for tech updates](#)
