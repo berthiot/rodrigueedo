@@ -22,7 +22,7 @@ description: "Professional software developer passionate about creating innovati
     </div>
     
     <div class="project-card">
-        <h3 class="project-title">Project Two</h3>
+        <h3 class="project-title">Personal Finance & Expense Tracker</h3>
         <p class="project-description">An innovative mobile application that solves real-world problems. Features responsive design and seamless user experience.</p>
         <div class="project-tech">
             <span class="tech-tag">React Native</span>
