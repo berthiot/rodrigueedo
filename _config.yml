@@ -2,7 +2,7 @@ title: Rodrigue Edo - Professional Portfolio
 email: rodrigue.edo@example.com
 description: >-
   Professional portfolio showcasing my projects, skills, and experience.
-baseurl: ""
+baseurl: "/rodrigueedo"
 url: "https://berthiot.github.io/rodrigueedo"
 github_username: berthiot
 
