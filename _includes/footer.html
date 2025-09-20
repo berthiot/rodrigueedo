@@ -1,0 +1,23 @@
+<footer class="site-footer">
+    <div class="container">
+        <div class="footer-content">
+            <div class="footer-info">
+                <p>&copy; {{ 'now' | date: "%Y" }} {{ site.author | default: site.title }}. All rights reserved.</p>
+                <p>{{ site.description }}</p>
+            </div>
+            
+            <div class="footer-links">
+                {% if site.github_username %}
+                    <a href="https://github.com/{{ site.github_username }}" target="_blank" rel="noopener noreferrer">
+                        GitHub
+                    </a>
+                {% endif %}
+                {% if site.email %}
+                    <a href="mailto:{{ site.email }}">
+                        Email
+                    </a>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+</footer>
