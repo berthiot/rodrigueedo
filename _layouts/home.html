@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<div class="home">
+    <section class="hero">
+        <div class="container">
+            <h1 class="hero-title">{{ page.title | default: site.title }}</h1>
+            <p class="hero-description">{{ page.description | default: site.description }}</p>
+        </div>
+    </section>
+    
+    <div class="container">
+        {{ content }}
+    </div>
+</div>

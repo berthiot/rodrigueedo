@@ -1,0 +1,51 @@
+title: Rodrigue Edo - Professional Portfolio
+email: edorodrigue@yahoo.fr
+description: >-
+  Professional portfolio showcasing my projects, skills, and experience.
+baseurl: ""
+url: "https://berthiot.github.io/rodrigueedo"
+github_username: berthiot
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Navigation
+nav_pages:
+  - title: "Home"
+    url: "/"
+  - title: "About" 
+    url: "/about/"
+  - title: "Projects"
+    url: "/projects/"
+  - title: "Contact"
+    url: "/contact/"
+
+# Portfolio settings
+show_excerpts: true
+
+# SEO settings
+author: Rodrigue Edo
+social:
+  name: Rodrigue Edo
+  links:
+    - https://github.com/berthiot
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
