@@ -4,10 +4,14 @@ title: About Me
 description: Learn more about my background, skills, and experience.
 permalink: /about/
 ---
-
+<div style ="display: flex; align-items: flex-start;">
+<img src="/assets/img/portfolio.jpg" alt="Rodrigue Edo Portfolio" style="max-width: 177px;border-radius:10px;display:block;margin: 7px auto;">
+</div>
 ## Hi, I'm Rodrigue Edo
 
+
 I'm a passionate software developer with a love for creating innovative solutions. With experience in full-stack development, I enjoy working with modern technologies and best practices to build applications that make a difference.
+
 
 ### Skills & Technologies
 
