@@ -1,0 +1,5 @@
+source "https://rubygems.org"
+gem "jekyll", "~> 4.4.0"
+gem "jekyll-feed", "~> 0.17"
+gem "jekyll-sitemap"
+gem "jekyll-seo-tag"

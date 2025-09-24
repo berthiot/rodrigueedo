@@ -1,0 +1,28 @@
+current directory: /workspaces/rodrigueedo/vendor/bundle/ruby/3.2.0/gems/rbs-3.9.5/ext/rbs_extension
+/usr/local/bin/ruby extconf.rb
+checking for whether -std=gnu99 is accepted as CFLAGS... yes
+creating Makefile
+
+current directory: /workspaces/rodrigueedo/vendor/bundle/ruby/3.2.0/gems/rbs-3.9.5/ext/rbs_extension
+make DESTDIR\= sitearchdir\=./.gem.20250920-2604-5ew6pw sitelibdir\=./.gem.20250920-2604-5ew6pw clean
+
+current directory: /workspaces/rodrigueedo/vendor/bundle/ruby/3.2.0/gems/rbs-3.9.5/ext/rbs_extension
+make DESTDIR\= sitearchdir\=./.gem.20250920-2604-5ew6pw sitelibdir\=./.gem.20250920-2604-5ew6pw
+compiling ./../../src/constants.c
+compiling ./../../src/ruby_objs.c
+compiling ./../../src/util/rbs_constant_pool.c
+compiling lexer.c
+compiling lexstate.c
+compiling location.c
+compiling main.c
+compiling parser.c
+compiling parserstate.c
+compiling unescape.c
+linking shared-object rbs_extension.so
+
+current directory: /workspaces/rodrigueedo/vendor/bundle/ruby/3.2.0/gems/rbs-3.9.5/ext/rbs_extension
+make DESTDIR\= sitearchdir\=./.gem.20250920-2604-5ew6pw sitelibdir\=./.gem.20250920-2604-5ew6pw install
+/usr/bin/install -c -m 0755 rbs_extension.so ./.gem.20250920-2604-5ew6pw
+
+current directory: /workspaces/rodrigueedo/vendor/bundle/ruby/3.2.0/gems/rbs-3.9.5/ext/rbs_extension
+make DESTDIR\= sitearchdir\=./.gem.20250920-2604-5ew6pw sitelibdir\=./.gem.20250920-2604-5ew6pw clean
