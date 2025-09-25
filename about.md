@@ -14,7 +14,7 @@ I'm a passionate software developer with a love for creating innovative solution
 
 ### Personal Details
 - **Gender:** Homme
-- **Nationality:** Gabonaise
+- **Nationality:** Gabonese
 
 ### Education
 - **Cybersecurity Engineering**, Wuhan University, Wuhan  
