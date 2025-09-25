@@ -5,12 +5,6 @@ description: Learn more about my background, skills, and experience.
 permalink: /about/
 ---
 <!-- s -->
----
-layout: page
-title: About Me
-description: Learn more about my background, skills, and experience.
-permalink: /about/
----
 
 ## Hi, I'm Rodrigue Edo
 
